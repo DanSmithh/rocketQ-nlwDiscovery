@@ -15,9 +15,15 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
+<br>
+
+<p align="center">
+  <img alt="dev.finances" src="./public/assets/home.png" width="70%">
+</p>
+
 Project developed to manage anonymous questions from users directed to the owner of the page. Project developed during the NLW Rocketseat week in the mission to discover.
 
-## **🚀 Tecnologies**
+## 🚀 Tecnologies
 
 This was developped with the following tecnologies:
 
@@ -29,18 +35,19 @@ This was developped with the following tecnologies:
 - Express
 - SQLite
 
-## **💻 Project**
+## 💻 Project
 
-Rocket Q is a webapp designed by Rocketseat in the 6th NLW week with the purpose to create chat rooms where others can make anonymous questions. 💰
+Rocket Q is a webapp designed by Rocketseat in the 6th NLW week with the purpose to create chat rooms where others can make anonymous questions. 💰
 
-## **🔖 Layout**
+## 🔖 Layout
 
-You can check the layout under [this link](https://www.figma.com/file/v3w1iRz1PUlN1iaUdnRl7K/Roquet.q-%2302-(Copy)?node-id=159%3A1143&viewport=-5165%2C-1035%2C1.6507904529571533).
+You can check the layout under [this link](https://www.figma.com/file/v3w1iRz1PUlN1iaUdnRl7K/Roquet.q-%2302-(Copy)?node-id=159%3A1143&viewport=-5165%2C-1035%2C1.6507904529571533). 
 
-## **📝 License**
+## :memo: License
 
-This project is under MIT license.
+This project is under MIT license. 
 
 ---
 
-Made with ♥ by myself together with Rocketseat 👋
+Made with ♥ by myself together with Rocketseat :wave: 
+
