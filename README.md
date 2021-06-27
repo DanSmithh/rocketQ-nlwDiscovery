@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="rocket.q" title="rocket.q" src="./public/assets/logo.svg" width="220px" />
+  <h1 align="center"> RocketQ </1>
 </h1>
 
 <p align="center">
@@ -16,10 +16,6 @@
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="dev.finances" src="./public/assets/home.png" width="70%">
-</p>
 
 Project developed to manage anonymous questions from users directed to the owner of the page. Project developed during the NLW Rocketseat week in the mission to discover.
 
